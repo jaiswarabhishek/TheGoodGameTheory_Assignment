@@ -1,0 +1,25 @@
+.beer-card {
+    display: grid;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    max-width: 300px;
+}
+
+.beer-image {
+    max-width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+.beer-details {
+    margin-top: 12px;
+}
+
+.tagline {
+    font-style: italic;
+    
+}
